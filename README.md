@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivcan99&label=Profile%20views&color=0e75b6&style=flat" alt="shivcan99" /> </p>
 
-- 🔭 I’m currently working on **Hand gesture recognition for screen control on mobile phones and laptops**
-
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently working on building web applications using **MERN-STACK**
 
 - 💬 Ask me about **react, angular, JavaScript, Java, SQL**
 
