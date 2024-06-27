@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivcan99&label=Profile%20views&color=0e75b6&style=flat" alt="shivcan99" /> </p>
 
-- 🌱 I’m currently working on building applications using **MERN-STACK** AND **React-Native Applications**
+- 🌱 I’m currently working on building applications using **MERN-STACK** AND **React-Native Applications** AND **Data Analytics**
 
 - 💬 Ask me about **react, angular, JavaScript, Java, SQL**
 
